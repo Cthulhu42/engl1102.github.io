@@ -1,16 +1,18 @@
-
 body {
     background-color: cadetblue;
 }
 
-.text {
-    font-family: Cambria, Georgia, Times, 'Times New Roman', serif
+.main {
+    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    width: 50%;
+    padding: 10px
 }
 
 p {
     color:black;
     font-size: 15px;
-    text-align: center
+    text-align: left
 }
 
 h1{
@@ -22,5 +24,5 @@ h1{
 h2{
     color:rgb(43,43,43);
     font-size: 25px;
-    text-align: center
+    text-align: left
 }
