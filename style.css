@@ -3,9 +3,9 @@ body {
 }
 
 .main {
-    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-family: Georgia, Times, 'Times New Roman', serif;
     margin: auto;
-    width: 50%;
+    width: 300px;
     padding: 10px
 }
 
