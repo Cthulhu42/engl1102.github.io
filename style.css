@@ -1,5 +1,5 @@
 body {
-    background-color: cadetblue;
+    background-color: rgb(10, 71, 73);
 }
 
 .main {
@@ -12,7 +12,7 @@ body {
 p {
     color:black;
     font-size: 15px;
-    text-align: left
+    text-align: center
 }
 
 h1{
