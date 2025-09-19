@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(10, 71, 73);
+    background-color: aliceblue;
 }
 
 .main {
     font-family: Georgia, Times, 'Times New Roman', serif;
     margin: auto;
-    width: 300px;
+    width:60%;
     padding: 10px;
 }
 
