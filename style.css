@@ -1,18 +1,18 @@
 body {
-    background-color: aliceblue;
+    background-color: rgb(199, 247, 247)
 }
 
 .main {
     font-family: Georgia, Times, 'Times New Roman', serif;
     margin: auto;
-    width:60%;
+    width: 60%;
     padding: 10px;
 }
 
 p {
     color:black;
     font-size: 15px;
-    text-align: center;
+    text-align: left;
 }
 
 h1{
