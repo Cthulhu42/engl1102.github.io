@@ -27,3 +27,13 @@ h2{
     font-size: 25px;
     text-align: left;
 }
+
+figure{
+    margin:auto;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+figcaption{
+    text-align: center;
+    font-size:15px
+}
