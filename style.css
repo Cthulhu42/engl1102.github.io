@@ -35,14 +35,16 @@ figure{
 }
 figcaption{
     text-align: center;
-    font-size:15px
+    font-size:15px;
+    padding-top:5px;
+    width:45%
 }
 
 .center{
     display: block;
     margin-left:auto;
     margin-right:auto;
-    width: 33%;
+    width: 40%;
 }
 
 .left{
