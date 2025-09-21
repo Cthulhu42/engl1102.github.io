@@ -65,18 +65,18 @@ hr.solid {
 }
 
 .footer{
-    background-color: rgb(154, 246, 246);
+    background-color: rgb(188, 208, 250);
 }
 
 .row{
     display: flex;
-    margin:auto
+    justify-content:center
 
 }
 
 .column{
     flex: 0 1 auto;
-    margin: justify;
+    justify-content: center;
     width:33%;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
