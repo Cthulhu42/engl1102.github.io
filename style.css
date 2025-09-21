@@ -46,7 +46,7 @@ figcaption{
 }
 
 .left{
-    display: inline-block;
+    float:left;
     margin-left:auto;
     margin-right: auto;
     width:50%;
