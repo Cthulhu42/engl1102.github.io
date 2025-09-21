@@ -74,11 +74,12 @@ footer{
 
 .row{
     display: flex;
+    justify-content: center;
 
 }
 
 .column{
-    flex: 40%;
+    flex: 33%;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
