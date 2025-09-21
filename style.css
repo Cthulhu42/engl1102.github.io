@@ -45,7 +45,7 @@ figcaption{
     width: 33%;
 }
 
-.side{
+.left{
     display: inline-block;
     margin-left:auto;
     margin-right: auto;
@@ -54,4 +54,5 @@ figcaption{
     padding-bottom:25px;
     padding-left: 15px;
     padding-right: 15px;
+    text-align: left
 }
