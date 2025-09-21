@@ -60,12 +60,10 @@ figcaption{
     
 }
 
-hr.solid {
-    border-top: 2px solid
-}
-
 .footer{
     background-color: rgb(188, 208, 250);
+    border-top: 3px;
+    border-color:black;
 }
 
 .row{
@@ -77,6 +75,7 @@ hr.solid {
 .column{
     flex: 0 1 auto;
     justify-content: center;
+    padding:20px;
     width:33%;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
