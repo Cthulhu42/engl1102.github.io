@@ -46,14 +46,12 @@ figcaption{
 }
 
 .left{
-    float:left;
+    display:inline-block;
     margin-left:auto;
     margin-right: auto;
-    width:50%;
+    width:40%;
     padding-top: 20px;
     padding-bottom:25px;
-    padding-left: 5px;
-    padding-right: 5px;
     text-align: left;
     
 }
