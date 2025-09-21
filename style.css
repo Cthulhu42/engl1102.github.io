@@ -76,7 +76,7 @@ hr.solid {
 
 .column{
     flex: 0 1 auto;
-    margin: auto;
+    margin: justify;
     width:33%;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
