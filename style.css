@@ -64,8 +64,8 @@ hr.solid {
     border-top: 2px solid
 }
 
-footer{
-    background-color: red !important;
+.footer{
+    background-color: rgb(116, 223, 223);
     position: fixed;
     left: 0;
     bottom: 0;
@@ -78,7 +78,8 @@ footer{
 }
 
 .column{
-    flex: 33%;
+    flex: 0 1 auto;
+    width:33%;
     font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
